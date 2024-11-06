@@ -1,4 +1,6 @@
 # Welcome to Brick Breaker!
+This was my first ever programming project. 
+I used fundamentals of programming to build this game in C++.
 
 ### Instructions
 
