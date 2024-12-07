@@ -4,11 +4,7 @@ I used fundamentals of programming to build this game in C++.
 
 
 ### To view this project in action: 
-Open: ScreenRecordingBrickBreaker.mov
-
-*NOTE:*
-This video is an old screen recording from my first semester. Its quality has 
-reduced significantly due to aging. For that i want to apologise in advance!
+Open: BrickBreaker.mp4
 
 
 ### Instructions
